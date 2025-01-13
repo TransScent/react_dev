@@ -10,7 +10,7 @@ const Frontend = () => {
            <i class='bx bx-badge-check'></i>
             <div>
                 <h3 className="skill__name">Denial Management</h3>
-                <span className="skills__level">Our denial management team works denials the same week they are received.  Our team of experts will review all denials monthly and educate staff on how to avoid the denials moving forward.</span>
+                <span className="skills__level">We take a proactive approach to denial management, using advanced analytics and automation to prevent denials and ensure faster, more effective resolutions.</span>
 
             </div>
            </div>
@@ -19,7 +19,7 @@ const Frontend = () => {
            <i class='bx bx-badge-check'></i>
             <div>
                 <h3 className="skill__name">Claim Submission</h3>
-                <span className="skills__level">Claim Denies – 45-60 days to respond to a denial – resolution/Payment – Set up rules to avoid the denial on future claims</span>
+                <span className="skills__level">We optimize claim submission with automated validation and error-checking, ensuring accuracy and faster reimbursements.</span>
 
             </div>
            </div>
@@ -28,7 +28,7 @@ const Frontend = () => {
            <i class='bx bx-badge-check'></i>
             <div>
                 <h3 className="skill__name">Appeals Management</h3>
-                <span className="skills__level">Appeals are an essential part of recovering money.  Appeals have set time limits for submission and require sufficient and accurate patient information in order to overturn a denial.  Our team tracks all appeals and monitors what we send along with our recovery rate.</span>
+                <span className="skills__level">Our proactive appeal management system ties up all the loose ends of a denial which results in maximizing recovery rates.</span>
 
             </div>
            </div>
@@ -38,7 +38,7 @@ const Frontend = () => {
            <i class='bx bx-badge-check'></i>
             <div>
                 <h3 className="skill__name">Credentialing</h3>
-                <span className="skills__level">With 20+ years of experience from our credentialing team let us help your practice set up new contracts, set up new providers, and negotiate contract rates</span>
+                <span className="skills__level">Our automated tools for credentialing ensures timely provider enrollment and compliance while minimizing delays and errors.</span>
 
             </div>
            </div>
@@ -47,7 +47,7 @@ const Frontend = () => {
            <i class='bx bx-badge-check'></i>
             <div>
                 <h3 className="skill__name">KPI Monitoring</h3>
-                <span className="skills__level">Our clients receive monthly KPI reporting and comparisons to the industry standard.</span>
+                <span className="skills__level">Our advanced dashboards offer real-time KPI monitoring, empowering providers to track performance, identify trends, and make data-driven decisions.</span>
 
             </div>
            </div>
@@ -56,7 +56,7 @@ const Frontend = () => {
            <i class='bx bx-badge-check'></i>
             <div>
                 <h3 className="skill__name">Financial Reporting and Analytics</h3>
-                <span className="skills__level">We offer customizable financial and analytics reporting on a monthly basis that meet your practice needs.</span>
+                <span className="skills__level">We provide robust financial management and analytics tools, offering actionable insights to enhance revenue cycle efficiency and profitability.</span>
 
             </div>
            </div>

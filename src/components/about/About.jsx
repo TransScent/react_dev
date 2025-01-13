@@ -19,9 +19,7 @@ const About = () => {
               <img src={AboutImg} alt="" className="about__img" />
               <div className="about__data">  
               
-                <p className="about__description">Full stack 
-                  developer,I create web pages with UI / UX user interface,
-                   I have years of experience and many clients are happy with the projects carried out.
+                <p className="about__description">We emphasize in efficiency, cost reduction and transparency by automating workflows which supports operational activities, reduces error margin and makes space for long term projections of revenue uptick.
                 </p>
                 <Info/>
                 {/* <a  download="" href={CV} className="button button--flex">
@@ -59,9 +57,7 @@ const About = () => {
               <img src={AboutImg} alt="" className="about__img" />
               <div className="about__data">  
               
-                <p className="about__description">Full stack 
-                  developer,I create web pages with UI / UX user interface,
-                   I have years of experience and many clients are happy with the projects carried out.
+                <p className="about__description">Our advanced technology streamlines billing workflows through automation, AI-driven error detection, and seamless claims management, significantly reducing providers' administrative tasks and focus on quality of care.
                 </p>
                 <Info/>
                 {/* <a  download="" href={CV} className="button button--flex">

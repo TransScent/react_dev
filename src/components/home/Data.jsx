@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className='home__data'>
       <h1 className='home__title'>
-      The Leaders in Care Enablement
+      Personalised Revenue Increase Enablement Services
         {/* <svg
           width='36'
           height='36'
@@ -57,7 +57,7 @@ const Data = () => {
       </h1>
       {/* <h3 className='home__subtitle'>The Leaders in Care Enablement</h3> */}
       <p className='home__description'>
-      We tackle healthcare’s toughest challenges by improving care quality, reducing administrative risks, and lowering total cost of care
+      We streamline medical billing by automating processes, minimizing errors and enhancing transparency. Our solutions ensure faster reimbursements, reduced administrative cost and improved financial outcomes for healthcare providers.
       </p>
       <a href='#contact' className='button button-flex'>
         Say Hello
