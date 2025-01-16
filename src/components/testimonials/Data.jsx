@@ -11,7 +11,7 @@ export const Data=[
     {
         id:2,
         image:Image2,
-        title:"Ravi Bind",
+        title:"Dina",
         description:"A really good job, all aspects of the project were followed step by step and with good results."
     },
     {
